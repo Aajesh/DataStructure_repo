@@ -22,9 +22,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2f5BOpenquYaBNVrVDg2RDrUnMk" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -37,6 +37,7 @@
     "Application.RotationArray.executor": "Run",
     "Application.SpiralMatrix.executor": "Run",
     "Application.Test3Sum.executor": "Run",
+    "Application.TestSearch.executor": "Run",
     "Application.TestSum.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -50,7 +51,7 @@
       <recent name="E:\GitHub\dataStructure_repo\src\com\aajesh\array" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SpiralMatrix">
+  <component name="RunManager" selected="Application.TestSearch">
     <configuration name="PositiveNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.aajesh.array.PositiveNumber" />
       <module name="DataStructure_repo" />
@@ -103,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.aajesh.array.TestSum" />
+    <configuration name="TestSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.aajesh.binarySearch.TestSearch" />
       <module name="DataStructure_repo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.aajesh.array.*" />
+          <option name="PATTERN" value="com.aajesh.binarySearch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestSearch" />
         <item itemvalue="Application.SpiralMatrix" />
         <item itemvalue="Application.RotationMatrix" />
         <item itemvalue="Application.PositiveNumber" />
         <item itemvalue="Application.Test3Sum" />
-        <item itemvalue="Application.TestSum" />
       </list>
     </recent_temporary>
   </component>
